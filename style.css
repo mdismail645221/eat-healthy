@@ -95,3 +95,55 @@ h1 {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+/* ==============recipies-area============ */
+.recipes-title h1 {
+    font-size: 40px;
+    padding-bottom: 18px;
+}
+.recipes-title{
+    text-align: center;
+    margin-bottom: 30px;
+    /* width: 300px; */
+}
+.single-recipies img{
+    width: 80%;
+    height: 45%;
+}
+.single-recipies{
+    width: 50%;
+    padding: 2%;
+    margin: 3%;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+}
+.single-recipies h3 {
+    padding: 10px 0px;
+}
+
+.single-recipies p {
+    padding-bottom: 10px;
+}
+
+.single-recipies1{
+    /* border: 2px solid gray; */
+    width: 50%;
+    padding: 2%;
+    /* margin: 3% */
+    margin-right: 3%;
+    box-shadow: 7px 7px 30px gray;
+    border-radius: 10px;
+}
+.single-recipies1 img{
+     width: 80%;
+    height: 45%;
+}
+.single-recipies1 h3 {
+    padding: 10px 0px;
+}
+
+.single-recipies1 p {
+    padding-bottom: 10px;
+}
+
