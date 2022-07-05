@@ -158,13 +158,20 @@ h1 {
     padding-left: 5%;
     text-align: center;
     padding-right: 5%;
+    border-radius: 10px;
 }
 .viewer-links{
     text-decoration: none;
     /* padding:100px; */
+    color: #000;
+}
+h2.viewer-heading2 {
+    font-size: 30px;
+    padding: 13px 0px;
 }
 .single-viewer-items{
     flex-basis: 33.3%;
+    /* border-radius: 10px; */
 }
 
 .viewers-items {
@@ -184,4 +191,8 @@ h1 {
     background-color: black;
     color: #fff;
     background-size: cover;
+}
+
+footer.footer h5 {
+    font-size: 1.25rem;padding: 10px 0px;
 }
